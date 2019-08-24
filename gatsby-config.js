@@ -5,7 +5,6 @@
  */
 
 module.exports = {
-  sitMetadata: {
   plugins: [
     `gatsby-plugin-emotion`,
     {
